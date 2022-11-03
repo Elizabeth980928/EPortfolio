@@ -112,7 +112,7 @@ h1, .h1 {
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -11723,3 +11723,17 @@ footer.footer .social-link:hover {
     font-size: 5.5rem;
   }
 }
+
+.resumeImg{
+  height: 200px;
+  width:200px;
+  border-radius: 50%;
+  padding-top: 10px;
+  float: left;
+}
+
+
+
+
+
+
